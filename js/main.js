@@ -1,8 +1,3 @@
-var profile= {
-	firstName: null,
-	lastName: null
-};
-
 
 //Run code, only if picture is clicked
 
